@@ -1,0 +1,29 @@
+{
+  "name": "vesica-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bluebird": "^3.4.6",
+    "jsonwebtoken": "^7.1.9",
+    "libp2p-secio": "^0.6.3",
+    "libp2p-spdy": "^0.10.0",
+    "libp2p-swarm": "^0.26.0",
+    "libp2p-tcp": "^0.9.1",
+    "libp2p-websockets": "^0.9.0",
+    "mafmt": "^2.1.2",
+    "mongoose": "^4.7.0",
+    "multiaddr": "^2.0.3",
+    "peer-book": "^0.3.0",
+    "peer-id": "^0.8.0",
+    "peer-info": "^0.8.0",
+    "tweetnacl": "^0.14.4",
+    "tweetnacl-util": "^0.13.4"
+  }
+}

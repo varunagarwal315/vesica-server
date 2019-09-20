@@ -1,0 +1,6 @@
+node_modules
+logs
+npm-debug.log
+public/bower_components
+nohup.out
+logs/*
