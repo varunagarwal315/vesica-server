@@ -13,4 +13,4 @@ Vesica is a small project by Varun Agarwal and Utkarsh Verma to demonstrate chat
 - `/vesica-misc/components` has sample code for implementing encryption using `tweetnacl` and native `crypto` module with the corresponding tests in the `/tests` folder
 
 #### Warning
-This was a fun side project made by us and in no means to be used in production. The code requires lot of refractoring and cleaning but is functional.
+This was a fun side project made by us and in no means to be used in production. The code could so with some refractoring and cleaning but is functional.
